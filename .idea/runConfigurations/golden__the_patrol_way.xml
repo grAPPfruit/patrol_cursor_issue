@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="golden: the patrol way" type="FlutterTestConfigType" factoryName="Flutter Test">
+    <option name="testFile" value="$PROJECT_DIR$/test/the_patrol_way/with_patrol_test.dart" />
+    <option name="useRegexp" value="false" />
+    <option name="additionalArgs" value="--update-goldens" />
+    <method v="2" />
+  </configuration>
+</component>

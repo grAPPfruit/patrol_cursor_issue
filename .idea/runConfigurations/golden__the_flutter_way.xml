@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="golden: the flutter way" type="FlutterTestConfigType" factoryName="Flutter Test">
+    <option name="testFile" value="$PROJECT_DIR$/test/the_flutter_way/with_flutter_test.dart" />
+    <option name="useRegexp" value="false" />
+    <option name="additionalArgs" value="--update-goldens" />
+    <method v="2" />
+  </configuration>
+</component>
